@@ -13,6 +13,6 @@
 
 # unity-srpg
 
-* Unity3D based SRPG game sample.
+* Unity3D, UGUI, C# based SRPG game sample.
 
 [![Youtube](https://img.youtube.com/vi/0nBnkJW-8mE/0.jpg)](https://www.youtube.com/watch?v=0nBnkJW-8mE)

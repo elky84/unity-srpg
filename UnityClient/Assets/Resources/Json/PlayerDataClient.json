@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Sprite": "ArmoredKnight",
+    "Attack": "Slashing",
+    "ProjectTile": null
+  },
+  {
+    "Id": 2,
+    "Sprite": "GreekWarrior",
+    "Attack": "Slashing",
+    "ProjectTile": null
+  },
+  {
+    "Id": 3,
+    "Sprite": "MedievalKing",
+    "Attack": "Slashing",
+    "ProjectTile": null
+  },
+  {
+    "Id": 4,
+    "Sprite": "MedievalKnight",
+    "Attack": "Slashing",
+    "ProjectTile": null
+  },
+  {
+    "Id": 5,
+    "Sprite": "Vampire",
+    "Attack": "Slashing",
+    "ProjectTile": null
+  },
+  {
+    "Id": 6,
+    "Sprite": "MedievalMage",
+    "Attack": "Throwing",
+    "ProjectTile": "Fireball"
+  },
+  {
+    "Id": 7,
+    "Sprite": "MedievalHoodedGirl",
+    "Attack": "Throwing",
+    "ProjectTile": "Dagger"
+  },
+  {
+    "Id": 8,
+    "Sprite": "BlackWizard",
+    "Attack": "Throwing",
+    "ProjectTile": "RedFireball"
+  }
+]

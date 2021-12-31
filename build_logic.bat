@@ -1,0 +1,1 @@
+dotnet publish Logic\Logic -c Release -o UnityClient\Assets\Logic

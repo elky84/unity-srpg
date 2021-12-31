@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "PlayerIndex": 0,
+    "PlayerId": 1,
+    "TeamType": "Blue",
+    "PositionX": 2,
+    "PositionY": 2
+  },
+  {
+    "Id": 2,
+    "PlayerIndex": 1,
+    "PlayerId": 2,
+    "TeamType": "Blue",
+    "PositionX": 2,
+    "PositionY": 4
+  },
+  {
+    "Id": 3,
+    "PlayerIndex": 2,
+    "PlayerId": 3,
+    "TeamType": "Blue",
+    "PositionX": 2,
+    "PositionY": 6
+  },
+  {
+    "Id": 4,
+    "PlayerIndex": 3,
+    "PlayerId": 4,
+    "TeamType": "Blue",
+    "PositionX": 2,
+    "PositionY": 8
+  },
+  {
+    "Id": 5,
+    "PlayerIndex": 4,
+    "PlayerId": 5,
+    "TeamType": "Red",
+    "PositionX": 14,
+    "PositionY": 2
+  },
+  {
+    "Id": 6,
+    "PlayerIndex": 5,
+    "PlayerId": 6,
+    "TeamType": "Red",
+    "PositionX": 14,
+    "PositionY": 4
+  },
+  {
+    "Id": 7,
+    "PlayerIndex": 6,
+    "PlayerId": 7,
+    "TeamType": "Red",
+    "PositionX": 14,
+    "PositionY": 6
+  },
+  {
+    "Id": 8,
+    "PlayerIndex": 7,
+    "PlayerId": 8,
+    "TeamType": "Red",
+    "PositionX": 14,
+    "PositionY": 8
+  }
+]
